@@ -5,9 +5,9 @@ const router = express.Router();
 // route for getting notes
 router.get('/', (req, res) => {
     // log to indicate whether get request was recieved
-    console,log(`${req.method} request recieved.`);
+    console.log(`${req.method} request recieved.`);
     // read the db.json then parse content 
-    readFromFile('./db/db/json').then((data) => res.json(JSON.parse(data)))
+    readFromFile('./db/db.json').then((data) => res.json(JSON.parse(data)))
 });
 
 // post new notes
