@@ -28,38 +28,21 @@ npm start
 
 Below is a link to the deployed application (deployed via heroku).
 
-https://immense-gorge-67691.herokuapp.com
-
-Below is a link to a youtube video of the application in action.
-
-https://www.youtube.com/watch?v=nuvs0KghqpY
+https://morning-journey-85014.herokuapp.com/
 
 
 Below are a few screenshots of the functionality of the app.
 
-### Homepage
 
-![homepage](./public/images/mooTechBlog.1.jpg)
+### Note Taker
 
-### Responsive Scaling
+![3](./public/images/notetaker.jpg)
 
-![responsive scaling](./public/images/mooTechBlog.2.jpg)
+### Notes Page
 
-### Note Page
+![4](./public/images/notetaker2.jpg)
 
-![3](./public/images/mooTechBlog.3.jpg)
 
-### New Note
-
-![4](./public/images/mooTechBlog.4.jpg)
-
-### New Note Added to Note Column
-
-![5](./public/images/mooTechBlog.5.jpg)
-
-### Deleting an old Note
-
-`NOT YET IMPLEMENTED`
 
 
 ### About Me
@@ -92,4 +75,3 @@ If you would like to submit improvements, feel free to reach out.  If you would 
 
 * [FileSystem] (https://nodejs.org/api/fs.html)
 
-*
