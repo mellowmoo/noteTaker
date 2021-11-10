@@ -53,7 +53,7 @@ Special thanks for those who helped me when I got stuck on certain parts of deve
 ### Future Development
 I would like to add the following features.
 
-- the option to delete old posts
+- the option to create user profiles and login functionality.
 
 If you would like to submit improvements, feel free to reach out.  If you would like to collaborate, please reach out as well.  I have much to learn and working with others is a great way to get new perspectives on things.
 
